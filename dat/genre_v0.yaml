@@ -1,0 +1,130 @@
+alternative:
+    complete:
+        - alternative
+        - thrash
+        - grunge
+        - shoegaze
+    partial:
+        - punk
+blues:
+    complete:
+        - blues
+    partial: []
+country:
+    complete:
+        - country
+        - urban
+        - cowboy
+        - bluegrass
+        - americana
+        - honky
+    partial: []
+comedy:
+    complete:
+        - comedy
+        - vaudeville
+        - theme
+    partial: []
+classical:
+    complete:
+        - classic
+        - classical
+        - opera
+        - renaissance
+        - neoclassical
+        - avant
+        - baroque
+        - chamber
+        - choral
+        - early
+        - orchestral
+        - medieval
+        - compositional
+        - minimal
+    partial:
+        - romantic
+dance:
+    complete:
+        - dance
+        - trap
+        - glitch
+        - house
+        - breakcore
+        - breakbeat
+        - eurodance
+        - hardcore
+        - horrorcore
+        - speedcore
+        - jungle
+        - grime
+        - garage
+    partial:
+        - step
+        - trance
+        - techno
+        - disco
+        - jump
+rap:
+    complete:
+        - rap
+        - hip
+        - bounce
+    partial: []
+pop:
+    complete:
+        - pop
+        - synthpop
+    partial: []
+latin:
+    complete:
+        - latin
+        - latino
+        - brazilian
+        - argentine
+        - tango
+        - cumbia
+        - flamenco
+        - spanish
+        - mexican
+        - tropical
+        - bossa
+    partial: []
+jazz:
+    complete:
+        - jazz
+        - reggae
+        - dub
+        - bebop
+        - dixieland
+        - fusion
+        - bop
+        - ragtime
+    partial: []
+r&b:
+    complete:
+        - r&b
+        - soul
+        - doo
+        - wop
+        - motown
+        - storm
+    partial:
+        - disco
+        - funk
+rock:
+    complete:
+        - rock
+        - metal
+        - psychedelic
+        - jam
+        - invasion
+        - surf
+        - metalcore
+    partial:
+        - death
+        - grind
+        - doom
+folk:
+    complete: []
+    partial:
+        - folk
